@@ -1,2 +1,2 @@
-# obriensergey.github.io
-My Repository on GitHub
+# Sergey Obrien
+Мои домашние задания
