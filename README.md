@@ -2,6 +2,7 @@
 Beginner iOS developer.
 From Odessa, Ukraine
 
+---
 
 ### 💻 Skils
 Swift
