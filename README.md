@@ -10,6 +10,4 @@ I`m Sergey. Beginner iOS developer. From Odessa, Ukraine
 Odessa State Environmental University. Computer Science. Master.
 Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)
 
-> 
 >Email: obrienser@gmail.com
-> 
