@@ -2,6 +2,6 @@
 >Beginner iOS developer. From Odessa, Ukraine
 
 ### 💻 Skils
-Swift
-UIKit, SwiftUI
-Git
+*Swift
+*UIKit, SwiftUI
+*Git
