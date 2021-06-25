@@ -1,5 +1,5 @@
 # Hi there 👋
-I`m Sergey. Beginner iOS developer. From Odessa, Ukraine<br>
+I`m Sergey. Beginner iOS developer. From Odessa, Ukraine.<br>
 
 ### Skils
 * Swift<br>
