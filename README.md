@@ -1,7 +1,7 @@
-# Sergey Obrien
+# Hey 🙌
+Beginner iOS developer. From Odessa, Ukraine
 
-# Skils:
-Swift;
-UIKit, SwiftUI;
-OOP, Functional programming;
-Git;
+## SKILS 👨‍💻
+Swift
+UIKit, SwiftUI
+Git
