@@ -3,7 +3,7 @@ Beginner iOS developer.
 From Odessa, Ukraine
 
 
-### SKILS 💻
+### 💻 Skils
 Swift
 UIKit, SwiftUI
 Git
