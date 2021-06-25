@@ -1,7 +1,9 @@
-# Hey 🙌
-Beginner iOS developer. From Odessa, Ukraine
+# Hi there 👋
+Beginner iOS developer.
+From Odessa, Ukraine
 
-### SKILS 👨‍💻
+
+### SKILS 💻
 Swift
 UIKit, SwiftUI
 Git
