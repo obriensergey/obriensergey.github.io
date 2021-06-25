@@ -1,14 +1,15 @@
 # Hi there 👋
-I`m Sergey. Beginner iOS developer. From Odessa, Ukraine
+I`m Sergey. Beginner iOS developer. From Odessa, Ukraine<br>
 
 ### Skils
-* Swift
-* UIKit, SwiftUI
-* Git
+* Swift<br>
+* UIKit, SwiftUI<br>
+* Git<br>
 
 ### Education
-Odessa State Environmental University. Computer Science. Master.
-Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)
+Odessa State Environmental University. Computer Science. Master.<br>
+Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)<br>
+<br>
 
-> Email: obrienser@gmail.com
+> Email: obrienser@gmail.com<br>
 > Telegram: https://t.me/obrienser
