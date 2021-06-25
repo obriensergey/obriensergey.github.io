@@ -11,5 +11,5 @@ Odessa State Environmental University. Computer Science. Master.<br>
 Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)<br>
 <br>
 
-> Email: obrienser@gmail.com<br>
+> Email: obrienser@gmail.com
 > Telegram: https://t.me/obrienser
