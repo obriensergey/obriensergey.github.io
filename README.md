@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there :space_invader:
 I`m Sergey. Beginner iOS developer. From Odessa, Ukraine.<br>
 
 ### Skils
