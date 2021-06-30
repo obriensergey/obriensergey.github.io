@@ -13,4 +13,5 @@ Odessa State Environmental University. Computer Science. Master. 2021<br>
 <br>
 
 > Email: obrienser@gmail.com
-> Telegram: https://t.me/obrienser :space_invader:
+> Telegram: https://t.me/obrienser
+:space_invader:
