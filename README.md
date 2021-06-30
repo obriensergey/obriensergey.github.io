@@ -1,4 +1,4 @@
-# Hi there :space_invader:
+# Hi there :wave:
 I`m Sergey. Beginner iOS developer. From Odessa, Ukraine.<br>
 
 ### Skils
@@ -13,4 +13,4 @@ Odessa State Environmental University. Computer Science. Master. 2021<br>
 <br>
 
 > Email: obrienser@gmail.com
-> Telegram: https://t.me/obrienser
+> Telegram: https://t.me/obrienser :space_invader:
