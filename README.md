@@ -1,5 +1,5 @@
 # Hi there :wave:
-I`m Sergey. Beginner iOS developer. From Odessa, Ukraine.<br>
+I`m Sergey, beginner iOS developer. From Odessa, Ukraine.<br>
 
 ### Education
 Odessa State Environmental University. Computer Science. Master. 2021<br>
@@ -12,6 +12,6 @@ Odessa State Environmental University. Computer Science. Master. 2021<br>
 * Git<br>
 <br>
 
-> Email: obrienser@gmail.com
 > LinkedIn: https://linkedin.com/in/obrienser
 > Telegram: https://t.me/obrienser
+> Email: obrienser@gmail.com
