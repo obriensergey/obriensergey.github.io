@@ -1,5 +1,5 @@
 # Hi there :wave:
-I`m Sergey, beginner iOS developer. From Odessa, Ukraine.<br>
+I`m Sergey, iOS developer. From Odessa, Ukraine.<br>
 
 ### Education
 Odessa State Environmental University. Computer Science. Master. 2021<br>
