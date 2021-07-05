@@ -1,4 +1,4 @@
-# Hey, I`m Sergey 👋
+# Hey there 👋
 
 <a href="https://t.me/obrienser/">
   <img align="left" alt="Telegram" width="22px" src="https://user-images.githubusercontent.com/50111192/124474147-d99b2600-dda8-11eb-80db-bc3bdd3efef4.png" />
@@ -17,7 +17,7 @@
 </a>
 <br><br>
 
-*iOS developer. From Odessa, Ukraine.*
+*I'm a 23-year-old iOS developer from Ukraine, who loves open source. I mainly code in Swift and Python, but I am always learning.*
 
 <br>
 
