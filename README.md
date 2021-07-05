@@ -23,10 +23,9 @@ struct Education {
 }
 let myEducation = Education()
 ```
-
-<img align="right" src="/image03.gif" width="500" />
-
 > Stanford University's course CS193p and CS50, Harvard University
+> 
+<img align="right" src="/image03.gif" width="400" />
 
 ### Skils
 * Swift<br>
