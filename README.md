@@ -11,7 +11,6 @@ Odessa State Environmental University. Computer Science. Master. 2021<br>
 * Swift<br>
 * UIKit, SwiftUI<br>
 * Git<br>
-<br>
 
 ### Connect with me
 <a href="https://twitter.com/ser_maslennikov/" target="_blank">
@@ -22,8 +21,6 @@ Odessa State Environmental University. Computer Science. Master. 2021<br>
 </a>
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=obrienser)](https://github.com/obrienser/)
-
-<br>
 
 > Telegram: https://t.me/obrienser
 > Email: obrienser@gmail.com
