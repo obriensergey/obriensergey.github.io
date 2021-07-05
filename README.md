@@ -23,9 +23,10 @@ struct Education {
 ```
 > **YouTube:** Stanford University's course CS193p and CS50, Harvard University
 
-<img align="right" src="/image03.gif" width="400" />
-
-<br><br>
+<p>
+  <img align="right" src="/image03.gif" width="400" />
+</p>
+<br>
 
 ### Skils
 :space_invader: Swift<br>
