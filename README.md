@@ -1,5 +1,6 @@
-# Hi there :wave:
-I`m Sergey, iOS developer. From Odessa, Ukraine.<br>
+![Hi there!](https://img.shields.io/github/stars/obrienser/Facebook-Scraper)
+
+I like experimenting with new technologies
 
 ### Education
 Odessa State Environmental University. Computer Science. Master. 2021<br>
@@ -17,3 +18,5 @@ Odessa State Environmental University. Computer Science. Master. 2021<br>
 > Email: obrienser@gmail.com
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=obrienser)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=obrienser)
