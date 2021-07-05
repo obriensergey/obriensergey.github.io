@@ -11,7 +11,7 @@
 [Email](mailto:obrienser@gmail.com)
 
 Beginner iOS developer. From Odessa, Ukraine.
-<br>
+<br><br>
 
 ```swift
 struct Education {
@@ -20,16 +20,15 @@ struct Education {
     var degree = "Master"
     var graduationYear = 2021
 }
-let myEducation = Education()
 ```
-> Stanford University's course CS193p and CS50, Harvard University
+> **YouTube:** Stanford University's course CS193p and CS50, Harvard University
 > 
 <img align="right" src="/image03.gif" width="400" />
 
 ### Skils
-* Swift<br>
-* UIKit, SwiftUI<br>
-* Git<br>
+:bamboo: Swift<br>
+:bookmark: UIKit, SwiftUI<br>
+:package: Git<br>
 
 <br>
 <a href="https://www.buymeacoffee.com/obrienser">
