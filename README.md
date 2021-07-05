@@ -2,6 +2,8 @@
   rgrsghswg
 </p>
 
+<h1 align="center">Hey, i`m Sergey</h1>
+
 I like experimenting with new technologies
 
 ### Education
