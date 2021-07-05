@@ -8,7 +8,7 @@
 </a>
 
 [Telegram](https://t.me/obrienser)
-[Email](obrienser@gmail.com)
+[Email](mailto:obrienser@gmail.com)
 
 Beginner iOS developer. From Odessa, Ukraine.
 <br>
