@@ -31,7 +31,6 @@ struct Education {
 ```
 
 <img align="right" src="/image03.gif" width="350" />
-<br>
 
 > **YouTube:** Stanford University's course CS193p and CS50, Harvard University
 
