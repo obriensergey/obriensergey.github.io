@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/obrienser/">
   <img align="left" alt="Sergey Maslennikov's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<img align="right" src="/image02.gif" width="400" />
+<img align="right" src="/image03.gif" width="400" />
 
 [Telegram](https://t.me/obrienser)
 [Email](obrienser@gmail.com)
