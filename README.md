@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/50111192/124456511-7357d880-dd93-11eb-98b2-0d684907885b.png)
+![header](/header.png)
 
 I like experimenting with new technologies
 
