@@ -14,7 +14,13 @@ Odessa State Environmental University. Computer Science. Master. 2021<br>
 <br>
 
 ### Connect with me
-> LinkedIn: https://linkedin.com/in/obrienser
+<a href="https://twitter.com/ser_maslennikov/">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/obrienser/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 > Telegram: https://t.me/obrienser
 > Email: obrienser@gmail.com
 
