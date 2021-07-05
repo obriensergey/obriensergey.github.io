@@ -1,9 +1,7 @@
-<center>
+<p align="center"> 
   <h1>Hey, i`m Sergey</h1>
-</centr>
+</p>
 
-
-<center>Текст</center>
 I like experimenting with new technologies
 
 ### Education
