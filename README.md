@@ -17,7 +17,7 @@
 </a>
 <br><br>
 
-*I'm a 23-year-old iOS developer from Ukraine, who loves open source. I mainly code in Swift and Python, but I am always learning.*
+*I'm a 23-year-old iOS developer from Ukraine, who loves open source. I mainly code in Swift, but I am always learning.*
 
 <br>
 
@@ -31,6 +31,7 @@ struct Education {
 ```
 
 <img align="right" src="/image03.gif" width="350" />
+<br>
 
 > **YouTube:** Stanford University's course CS193p and CS50, Harvard University
 
