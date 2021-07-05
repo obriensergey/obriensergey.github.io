@@ -41,8 +41,9 @@ struct Education {
 :space_invader: UIKit, SwiftUI<br>
 :space_invader: Git<br>
 
-<br>
-<a href="https://www.buymeacoffee.com/obrienser">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="140">
-</a>
 <br><br>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/obrienser">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="140">
+  </a>
+</p>
