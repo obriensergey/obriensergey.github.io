@@ -7,7 +7,7 @@
   <img align="left" alt="Sergey Maslennikov's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=obrienser)](https://github.com/obrienser/)
+
 [Telegram](https://t.me/obrienser)
 [Email](obrienser@gmail.com)
 
@@ -25,6 +25,5 @@ Odessa State Environmental University. Computer Science. Master. 2021<br>
 * Git<br>
 
 <br>
-<p align="center">
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=obrienser)](https://github.com/obrienser/)
 <a href="https://www.buymeacoffee.com/obrienser/"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</p>
