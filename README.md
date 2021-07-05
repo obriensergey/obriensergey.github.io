@@ -15,11 +15,11 @@
 <a href="https://facebook.com/obrienser/">
   <img align="left" alt="Facebook" width="22px" src="https://user-images.githubusercontent.com/50111192/124475263-2df2d580-ddaa-11eb-8c77-fe58223f5360.png" />
 </a>
-<br>
+<br><br>
 
 *iOS developer. From Odessa, Ukraine.*
 
-<img align="right" src="/image03.gif" width="350" />
+<br>
 
 ```swift
 struct Education {
@@ -29,6 +29,9 @@ struct Education {
     let graduationYear = 2021
 }
 ```
+
+<img align="right" src="/image03.gif" width="350" />
+
 > **YouTube:** Stanford University's course CS193p and CS50, Harvard University
 
 ### Skils
@@ -36,12 +39,7 @@ struct Education {
 - UIKit, SwiftUI
 - Git
 
-<br><br>
-
-------
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/obrienser">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="140">
-  </a>
-</p>
+<br>
+<a href="https://www.buymeacoffee.com/obrienser">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="140">
+</a>
