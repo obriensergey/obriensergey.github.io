@@ -12,6 +12,10 @@
 <a href="https://linkedin.com/in/obrienser/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://facebook.com/obrienser/">
+  <img align="left" alt="Facebook" width="22px" src="https://user-images.githubusercontent.com/50111192/124475263-2df2d580-ddaa-11eb-8c77-fe58223f5360.png" />
+</a>
+
 
 <br><br>
 iOS developer. From Odessa, Ukraine.
