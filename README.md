@@ -15,10 +15,10 @@ Beginner iOS developer. From Odessa, Ukraine.
 
 ```swift
 struct Education {
-    var university = "Odessa State Environmental University"
-    var specialty = "Computer Science"
-    var degree = "Master"
-    var graduationYear = 2021
+    let university = "Odessa State Environmental University"
+    let specialty = "Computer Science"
+    let degree = "Master"
+    let graduationYear = 2021
 }
 ```
 > **YouTube:** Stanford University's course CS193p and CS50, Harvard University
