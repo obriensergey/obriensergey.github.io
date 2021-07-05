@@ -19,9 +19,11 @@ Beginner iOS developer. From Odessa, Ukraine.
 </a>
 
 ### Education
+```
 Odessa State Environmental University. Computer Science. Master. 2021<br>
 *Stanford University's course CS193p (Developing Applications for iOS using SwiftUI) - YouTube*<br>
 *CS50 Harvard University - YouTube*<br>
+```
 
 ### Skils
 * Swift<br>
