@@ -1,4 +1,6 @@
-# Hey, i`m Sergey
+<center>
+  <h1>Hey, i`m Sergey</h1>
+</center>
 
 I like experimenting with new technologies
 
