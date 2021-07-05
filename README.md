@@ -13,6 +13,8 @@
 Beginner iOS developer. From Odessa, Ukraine.
 <br>
 
+<img align="right" src="/image03.gif" width="500" />
+
 ### Education
 ```swift
 struct Education {
@@ -23,8 +25,7 @@ struct Education {
 }
 let myEducation = Education()
 ```
-> Stanford University's course CS193p; CS50, Harvard University
-<img align="right" src="/image03.gif" width="500" />
+> Stanford University's course CS193p and CS50, Harvard University
 
 ### Skils
 * Swift<br>
