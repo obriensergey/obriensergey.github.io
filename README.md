@@ -13,7 +13,6 @@
 Beginner iOS developer. From Odessa, Ukraine.
 <br>
 
-### Education
 ```swift
 struct Education {
     var university = "Odessa State Environmental University"
