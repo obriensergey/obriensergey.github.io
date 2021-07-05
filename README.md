@@ -15,7 +15,7 @@ Beginner iOS developer. From Odessa, Ukraine.
 <br>
 
 <a href="https://www.buymeacoffee.com/obrienser">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="140">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="140"> <img align="right" src="/image.gif" width="400" />
 </a>
 
 ### Education
@@ -32,4 +32,4 @@ Odessa State Environmental University. Computer Science. Master. 2021<br>
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=obrienser)](https://github.com/obrienser/)
 
-<img align="right" src="/image.gif" />
+
