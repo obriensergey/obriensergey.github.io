@@ -1,6 +1,6 @@
-<h1 align="center">Hey, i`m Sergey</h1>
-
-I like experimenting with new technologies
+# Hey, I`m Sergey 👋
+Beginner iOS developer. From Odessa, Ukraine.
+<br>
 
 ### Education
 Odessa State Environmental University. Computer Science. Master. 2021<br>
