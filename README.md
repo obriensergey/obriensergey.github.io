@@ -28,9 +28,9 @@ struct Education {
 <br>
 
 ### Skils
-:bamboo: Swift<br>
-:bookmark: UIKit, SwiftUI<br>
-:package: Git<br>
+:space_invader: Swift<br>
+:space_invader: UIKit, SwiftUI<br>
+:space_invader: Git<br>
 
 <br>
 <a href="https://www.buymeacoffee.com/obrienser">
