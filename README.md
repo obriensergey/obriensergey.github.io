@@ -25,6 +25,8 @@ struct Education {
 > 
 <img align="right" src="/image03.gif" width="400" />
 
+<br>
+
 ### Skils
 :bamboo: Swift<br>
 :bookmark: UIKit, SwiftUI<br>
