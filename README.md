@@ -29,7 +29,7 @@ Odessa State Environmental University. Computer Science. Master. 2021<br>
 <a href="https://www.buymeacoffee.com/obrienser">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="140">
 </a>
-<br>
+<br><br>
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=obrienser)](https://github.com/obrienser/)
 
