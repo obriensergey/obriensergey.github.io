@@ -15,13 +15,16 @@ Beginner iOS developer. From Odessa, Ukraine.
 
 ### Education
 ```swift
-. Computer Science. Master. 2021
-Stanford University's course CS193p (Developing Applications for iOS using SwiftUI) - YouTube
-CS50 Harvard University - YouTube
-
 struct Education {
     var university = "Odessa State Environmental University"
-    var height = 0
+    var a = "Computer Science"
+    var b = "Master"
+    var c = 2021
+}
+
+class YouTube {
+    var n = "Stanford University's course CS193p"
+    var m = "CS50, Harvard University"
 }
 ```
 <img align="right" src="/image03.gif" width="500" />
@@ -31,8 +34,7 @@ struct Education {
 * UIKit, SwiftUI<br>
 * Git<br>
 
-
-
+<br>
 <a href="https://www.buymeacoffee.com/obrienser">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="140">
 </a>
