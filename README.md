@@ -31,3 +31,5 @@ Odessa State Environmental University. Computer Science. Master. 2021<br>
 * Git<br>
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=obrienser)](https://github.com/obrienser/)
+
+<img align="right" src="/image.gif" />
