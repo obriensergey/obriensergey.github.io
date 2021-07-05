@@ -10,7 +10,7 @@
 [Telegram](https://t.me/obrienser)
 [Email](mailto:obrienser@gmail.com)
 
-Beginner iOS developer. From Odessa, Ukraine.
+iOS developer. From Odessa, Ukraine.
 <br><br>
 
 ```swift
