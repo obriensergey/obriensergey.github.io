@@ -17,16 +17,13 @@ Beginner iOS developer. From Odessa, Ukraine.
 ```swift
 struct Education {
     var university = "Odessa State Environmental University"
-    var a = "Computer Science"
-    var b = "Master"
-    var c = 2021
+    var specialty = "Computer Science"
+    var degree = "Master"
+    var graduationYear = 2021
 }
-
-class YouTube {
-    var n = "Stanford University's course CS193p"
-    var m = "CS50, Harvard University"
-}
+let myEducation = Education()
 ```
+> Stanford University's course CS193p; CS50, Harvard University
 <img align="right" src="/image03.gif" width="500" />
 
 ### Skils
