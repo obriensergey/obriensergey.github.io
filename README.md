@@ -15,10 +15,10 @@ Beginner iOS developer. From Odessa, Ukraine.
 <br>
 
 <a href="https://www.buymeacoffee.com/obrienser/">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="140" >
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="140">
 </a>
 <a href="https://www.buymeacoffee.com/obrienser">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="140">
 </a>
 
 ### Education
