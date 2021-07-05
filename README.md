@@ -6,7 +6,6 @@
 <a href="https://linkedin.com/in/obrienser/">
   <img align="left" alt="Sergey Maslennikov's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<img align="right" src="/image03.gif" width="400" />
 
 [Telegram](https://t.me/obrienser)
 [Email](obrienser@gmail.com)
@@ -25,6 +24,8 @@ Odessa State Environmental University. Computer Science. Master. 2021<br>
 * Swift<br>
 * UIKit, SwiftUI<br>
 * Git<br>
+
+<img align="right" src="/image03.gif" width="500" />
 
 <a href="https://www.buymeacoffee.com/obrienser">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="140">
