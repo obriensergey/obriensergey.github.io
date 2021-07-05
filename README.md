@@ -14,6 +14,8 @@
 Beginner iOS developer. From Odessa, Ukraine.
 <br>
 
+<a href="https://www.buymeacoffee.com/obrienser/"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="140" ></a>
+
 ### Education
 Odessa State Environmental University. Computer Science. Master. 2021<br>
 *Stanford University's course CS193p (Developing Applications for iOS using SwiftUI) - YouTube*<br>
@@ -23,10 +25,5 @@ Odessa State Environmental University. Computer Science. Master. 2021<br>
 * Swift<br>
 * UIKit, SwiftUI<br>
 * Git<br>
-
-
-
-<a href="https://www.buymeacoffee.com/obrienser/"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="100" ></a> 
-<a href="https://github.com/obrienser/"><img src="https://visitor-badge.glitch.me/badge?page_id=obrienser" alt=""></a>
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=obrienser)](https://github.com/obrienser/)
