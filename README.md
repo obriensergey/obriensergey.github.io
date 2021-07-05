@@ -1,5 +1,4 @@
 # Hey, I`m Sergey 👋
-Beginner iOS developer. From Odessa, Ukraine.
 
 <a href="https://twitter.com/ser_maslennikov/">
   <img align="left" alt="Sergey Maslennikov | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -10,7 +9,7 @@ Beginner iOS developer. From Odessa, Ukraine.
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=obrienser)](https://github.com/obrienser/)
 
-<br>
+Beginner iOS developer. From Odessa, Ukraine.
 
 ### Education
 Odessa State Environmental University. Computer Science. Master. 2021<br>
