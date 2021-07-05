@@ -19,13 +19,14 @@ Odessa State Environmental University. Computer Science. Master. 2021<br>
 *Stanford University's course CS193p (Developing Applications for iOS using SwiftUI) - YouTube*<br>
 *CS50 Harvard University - YouTube*<br>
 ```
+<img align="right" src="/image03.gif" width="500" />
 
 ### Skils
 * Swift<br>
 * UIKit, SwiftUI<br>
 * Git<br>
 
-<img align="right" src="/image03.gif" width="500" />
+
 
 <a href="https://www.buymeacoffee.com/obrienser">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="140">
