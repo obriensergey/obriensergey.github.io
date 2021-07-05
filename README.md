@@ -1,4 +1,4 @@
-![header](/header.png)
+# Hey, i`m Sergey
 
 I like experimenting with new technologies
 
