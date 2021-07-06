@@ -39,8 +39,10 @@ struct Education {
 - UIKit, SwiftUI
 - Git
 
-### Another skills
-...
+<details>
+  <summary><b>Another skills</b></summary>
+  <p>...</p>
+</details>
 
 <br>
 <a href="https://www.buymeacoffee.com/obrienser">
