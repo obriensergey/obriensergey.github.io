@@ -15,6 +15,9 @@
 <a href="https://facebook.com/obrienser/">
   <img align="left" alt="Facebook" width="22px" src="https://user-images.githubusercontent.com/50111192/124475263-2df2d580-ddaa-11eb-8c77-fe58223f5360.png" />
 </a>
+<a href="https://www.buymeacoffee.com/obrienser">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="80">
+</a>
 <br><br>
 
 *I'm a 23-year-old iOS developer from Ukraine, who loves open source. I mainly code in Swift, but I am always learning.*
@@ -22,8 +25,9 @@
 <br>
 
 ### Education
-Odessa State Environmental University (Computer Science. Master. 2021)
-> **YouTube:** Stanford University's course CS193p and CS50, Harvard University
+- Odessa State Environmental University (Computer Science. Master. 2021)
+- Stanford University, CS193p (on YouTube)
+- Harvard University, CS50 (on YouTube)
 
 <img align="right" src="/image03.gif" width="350" />
 
@@ -33,11 +37,10 @@ Odessa State Environmental University (Computer Science. Master. 2021)
 - Git
 
 <details>
-  <summary><b>Another skills</b></summary>
-  <p>...</p>
+  <summary><b>More skills</b></summary>
+  <ul>
+    <li>Python</li>
+    <li></li>
+    <li></li>
+  </ul>
 </details>
-
-<br>
-<a href="https://www.buymeacoffee.com/obrienser">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150">
-</a>
