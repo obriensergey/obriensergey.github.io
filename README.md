@@ -40,7 +40,7 @@
   <summary><b>More skills</b></summary>
   <ul>
     <li>Python</li>
-    <li></li>
-    <li></li>
+    <li>Html, Css, JS</li>
+    <li>PhP</li>
   </ul>
 </details>
