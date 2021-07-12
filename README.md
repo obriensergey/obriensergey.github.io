@@ -41,7 +41,7 @@
   <summary><b>More skills</b></summary>
   <ul>
     <li>Python</li>
-    <li>Html, Css, JS</li>
-    <li>PhP</li>
+    <li>HTML, CSS, JS</li>
+    <li>PHP</li>
   </ul>
 </details>
