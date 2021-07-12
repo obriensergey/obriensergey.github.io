@@ -22,7 +22,7 @@
 <br>
 
 ### Education
-Odessa State Environmental University, "Computer Science", Master. 2021
+Odessa State Environmental University (Computer Science. Master. 2021)
 > **YouTube:** Stanford University's course CS193p and CS50, Harvard University
 
 <img align="right" src="/image03.gif" width="350" />
