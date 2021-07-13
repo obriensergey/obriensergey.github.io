@@ -33,7 +33,7 @@
 - Swift
 - UIKit, SwiftUI
 - Git
-- OOP
+- MVC
 
 <details>
   <summary><b>More skills</b></summary>
