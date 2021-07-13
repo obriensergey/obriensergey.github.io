@@ -22,6 +22,9 @@
 
 *I'm a 23-year-old iOS developer from Ukraine, who loves open source. I mainly code in Swift, but I am always learning.*
 
+<br>
+<img src ="https://github-readme-stats.vercel.app/api?username=obrienser&&show_icons=true" width="400" />
+
 ### Education
 - Odessa State Environmental University (Computer Science. Master. 2021)
 - Stanford University, CS193p (on YouTube)
