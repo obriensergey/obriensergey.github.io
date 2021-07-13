@@ -33,10 +33,10 @@
 <img align="right" src="/image03.gif" width="350" />
 
 ### Skils
-- Swift
-- UIKit, SwiftUI
-- Git
-- MVC
+<img src="https://user-images.githubusercontent.com/50111192/125415839-7ae279bc-11f5-4384-903e-136f46b359b2.png" width="15" /> Swift<br>
+<img src="https://user-images.githubusercontent.com/50111192/125416235-c7c4e2b9-6027-409a-aa4d-e743bd499c2a.png" width="15" /> UIKit, SwiftUI<br>
+<img src="https://user-images.githubusercontent.com/50111192/125415311-9717d980-3851-4b00-8113-a985a31f3326.png" width="15" /> Git<br>
+<img src="https://user-images.githubusercontent.com/50111192/125415839-7ae279bc-11f5-4384-903e-136f46b359b2.png" width="15" /> MVC<br>
 
 <details>
   <summary><b>More skills</b></summary>
