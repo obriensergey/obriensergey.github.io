@@ -34,15 +34,16 @@
 
 ### Skils
 <img src="https://user-images.githubusercontent.com/50111192/125415839-7ae279bc-11f5-4384-903e-136f46b359b2.png" width="15" /> Swift<br>
-<img src="https://user-images.githubusercontent.com/50111192/125416235-c7c4e2b9-6027-409a-aa4d-e743bd499c2a.png" width="15" /> UIKit, SwiftUI<br>
+<img src="https://user-images.githubusercontent.com/50111192/125574068-0c4e0121-8701-43b1-9ef5-5c44089e1ad1.png" width="15" /> UIKit, SwiftUI<br>
 <img src="https://user-images.githubusercontent.com/50111192/125415311-9717d980-3851-4b00-8113-a985a31f3326.png" width="15" /> Git<br>
-<img src="https://user-images.githubusercontent.com/50111192/125415839-7ae279bc-11f5-4384-903e-136f46b359b2.png" width="15" /> MVC<br>
+<img src="https://user-images.githubusercontent.com/50111192/125574299-66e447c2-f112-484a-8a26-cd747006749e.png" width="15" /> MVC<br>
+
+![image]()
+
 
 <details>
   <summary><b>More skills</b></summary>
-  <ul>
-    <li>Python</li>
-    <li>HTML, CSS, JS</li>
-    <li>PHP</li>
-  </ul>
+  <img src="https://user-images.githubusercontent.com/50111192/125574379-8f9959cd-be4a-4e53-8578-07b0ba8ac91c.png" width="15" /> Python<br>
+  <img src="https://user-images.githubusercontent.com/50111192/125574599-a1ebde35-c7e1-4c6b-a7f0-666901eaed16.png" width="15" /> HTML, <img src="https://user-images.githubusercontent.com/50111192/125574724-dce8298c-68bd-4aec-bf05-623412decc7a.png" width="15" /> CSS, JS<br>
+  <img src="https://user-images.githubusercontent.com/50111192/125574379-8f9959cd-be4a-4e53-8578-07b0ba8ac91c.png" width="15" /> PHP<br>
 </details>
