@@ -24,11 +24,12 @@
 
 <br>
 <img src ="https://github-readme-stats.vercel.app/api?username=obrienser&&show_icons=true" width="400" />
-
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=obrienser&layout=compact" width="400" />
+           
 ### Education
 >Odessa State Environmental University (Computer Science. Master. 2015-2020)
 <details>
-  <summary><b>see more</b></summary>
+  <summary><b>see more</b> 👉</summary>
   
 - Stanford University, CS193p (on YouTube)
 - Harvard University, CS50 (on YouTube)
@@ -44,7 +45,7 @@
 <img src="https://user-images.githubusercontent.com/50111192/125574299-66e447c2-f112-484a-8a26-cd747006749e.png" width="15" /> MVC<br>
 
 <details>
-  <summary><b>see more</b></summary>
+  <summary><b>see more</b> 👉</summary>
   <img src="https://user-images.githubusercontent.com/50111192/125574379-8f9959cd-be4a-4e53-8578-07b0ba8ac91c.png" width="15" /> Python<br>
   <img src="https://user-images.githubusercontent.com/50111192/125574599-a1ebde35-c7e1-4c6b-a7f0-666901eaed16.png" width="15" /> HTML, <img src="https://user-images.githubusercontent.com/50111192/125575085-d4dbd75a-a7e2-477a-a1f1-9e405311f406.png" width="15" /> CSS, <img src="https://user-images.githubusercontent.com/50111192/125575271-78b9b9ac-03a7-4cf2-870c-524780684083.png" width="15" /> JS<br>
   <img src="https://user-images.githubusercontent.com/50111192/125575869-4771439e-85e4-42a9-86f4-5fa568418751.png" width="15" /> PHP<br>
