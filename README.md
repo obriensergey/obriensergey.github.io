@@ -30,14 +30,9 @@ I'm a 23-year-old iOS developer from Ukraine, who loves open source. I mainly co
 <img src ="https://github-readme-stats.vercel.app/api?username=obrienser&&show_icons=true" height="150" />&nbsp;&nbsp; <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=obrienser&layout=compact" height="150" />
 
 ### EDUCATION
->Odessa State Environmental University (**Computer Science.** Master. 2015-2020)
-<details>
-  <summary><b>see more</b> 👉</summary>
-  
-- Stanford University, **CS193p** (on YouTube)
-- Harvard University, **CS50** (on YouTube)
-  
-</details>
+<img src="https://user-images.githubusercontent.com/50111192/125590171-693b377a-b95c-4719-b9eb-9a658d94ee7e.png" width="15" /> Odessa State Environmental University (**Computer Science.** Master. 2015-2020)<br>
+<img src="https://user-images.githubusercontent.com/50111192/125590227-8ce555ab-ff46-4f17-a340-ea1f2ad3622e.png" width="15" /> Stanford University, **CS193p**<br>
+<img src="https://user-images.githubusercontent.com/50111192/125590227-8ce555ab-ff46-4f17-a340-ea1f2ad3622e.png" width="15" /> Harvard University, **CS50**<br>
 
 <img align="right" src="/image03.gif" width="350" />
 
