@@ -38,12 +38,9 @@
 <img src="https://user-images.githubusercontent.com/50111192/125415311-9717d980-3851-4b00-8113-a985a31f3326.png" width="15" /> Git<br>
 <img src="https://user-images.githubusercontent.com/50111192/125574299-66e447c2-f112-484a-8a26-cd747006749e.png" width="15" /> MVC<br>
 
-![image]()
-
-
 <details>
   <summary><b>More skills</b></summary>
   <img src="https://user-images.githubusercontent.com/50111192/125574379-8f9959cd-be4a-4e53-8578-07b0ba8ac91c.png" width="15" /> Python<br>
-  <img src="https://user-images.githubusercontent.com/50111192/125574599-a1ebde35-c7e1-4c6b-a7f0-666901eaed16.png" width="15" /> HTML, <img src="https://user-images.githubusercontent.com/50111192/125574724-dce8298c-68bd-4aec-bf05-623412decc7a.png" width="15" /> CSS, JS<br>
-  <img src="https://user-images.githubusercontent.com/50111192/125574379-8f9959cd-be4a-4e53-8578-07b0ba8ac91c.png" width="15" /> PHP<br>
+  <img src="https://user-images.githubusercontent.com/50111192/125574599-a1ebde35-c7e1-4c6b-a7f0-666901eaed16.png" width="15" /> HTML, <img src="https://user-images.githubusercontent.com/50111192/125575085-d4dbd75a-a7e2-477a-a1f1-9e405311f406.png" width="15" /> CSS, <img src="https://user-images.githubusercontent.com/50111192/125575271-78b9b9ac-03a7-4cf2-870c-524780684083.png" width="15" /> JS<br>
+  <img src="https://user-images.githubusercontent.com/50111192/125575869-4771439e-85e4-42a9-86f4-5fa568418751.png" width="15" /> PHP<br>
 </details>
