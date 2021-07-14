@@ -24,9 +24,9 @@
 
 <br>
 
-<img src ="https://github-readme-stats.vercel.app/api?username=obrienser&&show_icons=true" height="150" /> <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=obrienser&layout=compact" height="150" />
+<img src ="https://github-readme-stats.vercel.app/api?username=obrienser&&show_icons=true" height="150" />&nbsp;&nbsp; <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=obrienser&layout=compact" height="150" />
            
-### Education
+### EDUCATION
 >Odessa State Environmental University (Computer Science. Master. 2015-2020)
 <details>
   <summary><b>see more</b> 👉</summary>
@@ -38,7 +38,7 @@
 
 <img align="right" src="/image03.gif" width="350" />
 
-### Skils
+### SKILS
 <img src="https://user-images.githubusercontent.com/50111192/125415839-7ae279bc-11f5-4384-903e-136f46b359b2.png" width="15" /> Swift<br>
 <img src="https://user-images.githubusercontent.com/50111192/125574068-0c4e0121-8701-43b1-9ef5-5c44089e1ad1.png" width="15" /> UIKit, SwiftUI<br>
 <img src="https://user-images.githubusercontent.com/50111192/125415311-9717d980-3851-4b00-8113-a985a31f3326.png" width="15" /> Git<br>
