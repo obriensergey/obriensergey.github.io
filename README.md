@@ -23,7 +23,7 @@
 </a>
 <br><br>
 
-*I'm a 23-year-old iOS developer from Ukraine, who loves open source. I mainly code in Swift, but I am always learning.*
+I'm a 23-year-old iOS developer from Ukraine, who loves open source. I mainly code in Swift, but I am always learning.
 
 <br>
 
@@ -39,7 +39,7 @@
   
 </details>
 
-<img align="right" src="/image03.gif" width="350" />
+<img align="right" src="/image03.gif" height="300" />
 
 ### SKILS
 <img src="https://user-images.githubusercontent.com/50111192/125415839-7ae279bc-11f5-4384-903e-136f46b359b2.png" width="15" /> Swift<br>
