@@ -27,12 +27,12 @@
 <img src ="https://github-readme-stats.vercel.app/api?username=obrienser&&show_icons=true" height="150" />&nbsp;&nbsp; <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=obrienser&layout=compact" height="150" />
            
 ### EDUCATION
->Odessa State Environmental University (Computer Science. Master. 2015-2020)
+>Odessa State Environmental University (**Computer Science.** Master. 2015-2020)
 <details>
   <summary><b>see more</b> 👉</summary>
   
-- Stanford University, CS193p (on YouTube)
-- Harvard University, CS50 (on YouTube)
+- Stanford University, **CS193p** (on YouTube)
+- Harvard University, **CS50** (on YouTube)
   
 </details>
 
