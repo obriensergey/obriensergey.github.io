@@ -23,7 +23,7 @@
 </a>
 <br><br>
 
-I'm a 23-year-old iOS developer from Ukraine, who loves open source. I mainly code in Swift, but I am always learning.
+I'm a 23-year-old **iOS developer** from Ukraine, who **loves open source.** I mainly code in Swift, but I am always learning.
 
 <br>
 
@@ -31,8 +31,8 @@ I'm a 23-year-old iOS developer from Ukraine, who loves open source. I mainly co
 
 ### EDUCATION
 <img src="https://user-images.githubusercontent.com/50111192/125590171-693b377a-b95c-4719-b9eb-9a658d94ee7e.png" width="15" /> Odessa State Environmental University (**Computer Science.** Master. 2015-2020)<br>
-<img src="https://user-images.githubusercontent.com/50111192/125590227-8ce555ab-ff46-4f17-a340-ea1f2ad3622e.png" width="15" /> Stanford University, **CS193p**<br>
-<img src="https://user-images.githubusercontent.com/50111192/125590227-8ce555ab-ff46-4f17-a340-ea1f2ad3622e.png" width="15" /> Harvard University, **CS50**<br>
+<img src="https://user-images.githubusercontent.com/50111192/125590227-8ce555ab-ff46-4f17-a340-ea1f2ad3622e.png" width="15" /> **CS193p,** Stanford University<br>
+<img src="https://user-images.githubusercontent.com/50111192/125590227-8ce555ab-ff46-4f17-a340-ea1f2ad3622e.png" width="15" /> **CS50,** Harvard University<br>
 
 <img align="right" src="/image03.gif" width="350" />
 
