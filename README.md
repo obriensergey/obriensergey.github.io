@@ -36,6 +36,7 @@ I'm a 23-year-old **iOS developer** from Ukraine, who **loves open source.** I m
 <details>
   <summary>more..</summary>
   <img src="https://user-images.githubusercontent.com/50111192/125590227-8ce555ab-ff46-4f17-a340-ea1f2ad3622e.png" width="15" /> How to Make an App for Beginners, CodeWithChris
+  <img src="https://user-images.githubusercontent.com/50111192/125590227-8ce555ab-ff46-4f17-a340-ea1f2ad3622e.png" width="15" /> Xcode UIKit Tutorial, CodeWithChris
 </details>
 
 <img align="right" src="/image03.gif" width="350" />
