@@ -3,7 +3,7 @@ I'm a 23-year-old **iOS developer** from Ukraine, who **loves open source.** I m
 
 <br>
 
-<img src ="https://github-readme-stats.vercel.app/api?username=obrienser&&show_icons=true" height="150" />&nbsp;&nbsp; <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=obrienser&layout=compact" height="150" />
+<img align="right" src="/image03.gif" width="350" />
 
 ### EDUCATION :mortar_board:
 <img src="https://user-images.githubusercontent.com/50111192/125590171-693b377a-b95c-4719-b9eb-9a658d94ee7e.png" width="15" /> Odessa State Environmental University (**Computer Science.** Master. 2015-2020)<br>
@@ -15,8 +15,6 @@ I'm a 23-year-old **iOS developer** from Ukraine, who **loves open source.** I m
   <img src="https://user-images.githubusercontent.com/50111192/125590227-8ce555ab-ff46-4f17-a340-ea1f2ad3622e.png" width="15" /> Xcode UIKit Tutorial, CodeWithChris<br>
 </details>
 
-<img align="right" src="/image03.gif" width="350" />
-
 ----
 
 ### SKILS :muscle:
@@ -25,14 +23,11 @@ I'm a 23-year-old **iOS developer** from Ukraine, who **loves open source.** I m
 <img src="https://user-images.githubusercontent.com/50111192/125415311-9717d980-3851-4b00-8113-a985a31f3326.png" width="15" /> Git<br>
 <img src="https://user-images.githubusercontent.com/50111192/125574299-66e447c2-f112-484a-8a26-cd747006749e.png" width="15" /> MVC<br>
 
+
+<img src ="https://github-readme-stats.vercel.app/api?username=obrienser&&show_icons=true" height="150" />&nbsp;&nbsp; <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=obrienser&layout=compact" height="150" />
+
 ----
 
-<a href="https://t.me/obrienser/">
-  <img align="left" alt="Telegram" height="22px" src="https://user-images.githubusercontent.com/50111192/124474147-d99b2600-dda8-11eb-80db-bc3bdd3efef4.png" />
-</a>
-<a href="mailto:obrienser@gmail.com">
-  <img align="left" alt="Email" height="22px" src="https://user-images.githubusercontent.com/50111192/124474775-9ab9a000-dda9-11eb-873c-b61af90459d4.png" />
-</a>
 <a href="https://twitter.com/ser_maslennikov/">
   <img align="left" alt="Twitter" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -47,4 +42,7 @@ I'm a 23-year-old **iOS developer** from Ukraine, who **loves open source.** I m
 </a> &nbsp;&nbsp;
 <a href="https://github.com/obrienser/">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=obrienser" alt="" height="21">
+</a>
+<a href="https://t.me/obrienser/">
+  <img align="left" alt="Telegram" height="22px" src="https://user-images.githubusercontent.com/50111192/124474147-d99b2600-dda8-11eb-80db-bc3bdd3efef4.png" />
 </a>
