@@ -1,21 +1,10 @@
 # Hey there 👋
-I'm a 23-year-old **iOS developer** from Ukraine, who **loves open source.** I mainly code in Swift, but I am always learning.
-
-<br>
 
 <img align="right" src="/image03.gif" width="350" />
 
-### EDUCATION :mortar_board:
-<img src="https://user-images.githubusercontent.com/50111192/125590171-693b377a-b95c-4719-b9eb-9a658d94ee7e.png" width="15" /> Odessa State Environmental University (**Computer Science.** Master. 2015-2020)<br>
-<img src="https://user-images.githubusercontent.com/50111192/125590227-8ce555ab-ff46-4f17-a340-ea1f2ad3622e.png" width="15" /> **CS193p,** Stanford University<br>
-<img src="https://user-images.githubusercontent.com/50111192/125590227-8ce555ab-ff46-4f17-a340-ea1f2ad3622e.png" width="15" /> **CS50,** Harvard University<br>
-<details>
-  <summary>more..</summary>
-  <img src="https://user-images.githubusercontent.com/50111192/125590227-8ce555ab-ff46-4f17-a340-ea1f2ad3622e.png" width="15" /> How to Make an App for Beginners, CodeWithChris<br>
-  <img src="https://user-images.githubusercontent.com/50111192/125590227-8ce555ab-ff46-4f17-a340-ea1f2ad3622e.png" width="15" /> Xcode UIKit Tutorial, CodeWithChris<br>
-</details>
-
-----
+I'm a 23-year-old **iOS developer** from Ukraine, who **loves open source.** I mainly code in Swift, but I am always learning.
+<br><br>
+:mortar_board: Odessa State Environmental University (**Computer Science.** Master. 2015-2020)
 
 ### SKILS :muscle:
 <img src="https://user-images.githubusercontent.com/50111192/125415839-7ae279bc-11f5-4384-903e-136f46b359b2.png" width="15" /> **Swift**<br>
@@ -23,6 +12,7 @@ I'm a 23-year-old **iOS developer** from Ukraine, who **loves open source.** I m
 <img src="https://user-images.githubusercontent.com/50111192/125415311-9717d980-3851-4b00-8113-a985a31f3326.png" width="15" /> Git<br>
 <img src="https://user-images.githubusercontent.com/50111192/125574299-66e447c2-f112-484a-8a26-cd747006749e.png" width="15" /> MVC<br>
 
+<br><br>
 
 <img src ="https://github-readme-stats.vercel.app/api?username=obrienser&&show_icons=true" height="150" />&nbsp;&nbsp; <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=obrienser&layout=compact" height="150" />
 
