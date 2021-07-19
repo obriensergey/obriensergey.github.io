@@ -12,7 +12,7 @@ I'm a 23-year-old **iOS developer** from Ukraine, who **loves open source.** I m
 - Git<br>
 - MVC<br>
 
-<br><br>
+<br>
 
 <img src ="https://github-readme-stats.vercel.app/api?username=obrienser&&show_icons=true" height="150" />&nbsp;&nbsp; <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=obrienser&layout=compact" height="150" />
 
