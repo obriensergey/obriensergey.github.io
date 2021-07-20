@@ -9,7 +9,7 @@ I'm a 23-year-old **iOS developer** from Ukraine, who **loves open source.** I m
 ### SKILS <img src="https://user-images.githubusercontent.com/50111192/125574068-0c4e0121-8701-43b1-9ef5-5c44089e1ad1.png" width="25" />
 - **Swift**<br>
 - **UIKit, SwiftUI**<br>
-- Git<br>
+- Git, Bitrise<br>
 - MVC<br>
 
 <br>
